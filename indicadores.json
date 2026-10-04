@@ -1,0 +1,23 @@
+[
+  {
+    "id": "canasta",
+    "titulo": "Canasta básica",
+    "valor": "$ 795,53",
+    "explicacionPopular": "Es lo que cuesta llenar el carrito mensual. Si sube, tu sueldo compra menos.",
+    "esDatoDeEjemplo": false
+  },
+  {
+    "id": "riesgo_pais",
+    "titulo": "Riesgo país",
+    "valor": "1.180 pts",
+    "explicacionPopular": "Como nuestro historial en el buró de crédito. Si es alto, los préstamos internacionales salen más caros.",
+    "esDatoDeEjemplo": false
+  },
+  {
+    "id": "inflacion",
+    "titulo": "Inflación mensual",
+    "valor": "0,09 %",
+    "explicacionPopular": "El 'impuesto silencioso'. Es la velocidad a la que el dinero en tu bolsillo pierde su valor.",
+    "esDatoDeEjemplo": false
+  }
+]
